@@ -1,8 +1,8 @@
 	
 	step one - preparation and Installation the Exchange Server 2k19 
 	
-	Name: prepare for exhcnage server 2k19 Installation
 	description: at first, Downlaod all tools are bring to you all in one in the following link
+	Name: prepare for exhcnage server 2k19 Installation
 	Link: https://mega.nz/file/5xsRlRrR#TpaNDlDHxnsFiJl6VOpqAfutf1tGWZbo1Y7fNFrTyDk
 	
 	description: just Downlaod one of these links you want  
