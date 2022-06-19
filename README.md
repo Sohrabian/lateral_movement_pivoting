@@ -2,7 +2,7 @@
 in summery by this repo we relize how dll injection works using Kiwi module in Powershell Empire ([this project is no longer supported](https://github.com/EmpireProject/Empire)) and mimikatz in Metasploit for credential steal.
 ### Install LAB 
 The list of Vulen machines are using in this tutorial there are in [vulen-machine.txt](https://github.com/Sohrabian/letralmovment_poviting/blob/main/vulen-machines.txt).
-1. VMWARE or Virtual Box (I recommend install vmware as your main VM in your Windows but on your GENU/LINUx machine what ever you want downlaod and lets crack vmware on ubuntu in soft98.ir, using search in search box )
+1. VMWARE or Virtual Box (I recommend install vmware as your main VM in your Windows but on your GENU/LINUx machine what ever you want downlaod and lets crack vmware on ubuntu in soft98.ir, using search in his search box )
 1. Win-Server-2016
 1. Exchange server 2019-CU1/MU these are RTM release (CVE-ecp-web-veiw-state) this post-exploitation module is Embedded using [RAPID-m7](https://www.rapid7.com/db/modules/exploit/windows/http/exchange_ecp_viewstate/).
 2. Win-7
