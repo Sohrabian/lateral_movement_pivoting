@@ -1,7 +1,14 @@
-
-
+	step one - preparation and Installation the Exchange Server 2k19 
+	
+	Name: prepare for exhcnage server 2k19 Installation
+	description: at first, Downlaod all tools are bring to you all in one in the following link
+	Link: https://mega.nz/file/5xsRlRrR#TpaNDlDHxnsFiJl6VOpqAfutf1tGWZbo1Y7fNFrTyDk
+	
+	description: just Downlaod one of these links you want  
 	Name: ExchangeServer2019-x64-cu1
 	Link: https://mega.nz/file/8p03AQKB#sj73V9G2ssrByXVDOyxM6PL4HwOtN2QvBlhYd3ncia0
 
 	Name: mu_exchange_server_2019_x64_dvd_5fa4d915
 	Link: https://mega.nz/file/x8EAlDyS#rt_62CUT8PGutXp7RZMfgYTA8rjIQBImSVRf98xZyVM
+	
+	
