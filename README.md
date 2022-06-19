@@ -1,5 +1,5 @@
 # lateral_movement_pivoting
-in summery by this repo we relize how dll injection works using Kiwi module in Powershell Empire this project is no longer supported or mimikatz in Metasploit for credential steal.
+in summery by this repo we relize how dll injection works using Kiwi module in Powershell Empire (this project is no longer supported) and mimikatz in Metasploit for credential steal.
 ### Install LAB 
 The list of Vulen machines are using in this tutorial there are in [vulen-machine.txt](https://github.com/Sohrabian/letralmovment_poviting/blob/main/vulen-machines.txt).
 1. Win-Server-2016
