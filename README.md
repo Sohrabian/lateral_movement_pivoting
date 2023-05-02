@@ -11,3 +11,4 @@ The list of Vulen machines are using in this tutorial there are in [vulen-machin
 By those of tools I'm listing in this repo we can run tcp-reverse, credential steal on the other using Powershell Empire we generate agent for first pivoting then lateral movement in msfconsole. All machines are working on a Domain using DNS for more knowing how active directory is working like this scenario. The End of this Attack I try to forward These log to SPLUNK and ELK for more analysis, using HTTP/HTTPS Event collectore (HEC) or Splunk App Stream if I can show dll injection log using sysmon have received on splunk Enterprise as single instans/search head. 
 ### Lets Config our machine as we want in this scenario
 1. as soon as complete
+2. Test
